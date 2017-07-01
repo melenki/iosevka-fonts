@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="font">
+    <id>iosevka-fonts</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <name>Iosevka</name>
+    <summary>A slender monospace typeface</summary>
+    <description>
+        <p>
+            Iosevka is a slender monospace sans-serif and slab-serif typeface
+            inspired by Pragmata Pro, M+ and PF DIN Mono, designed to be the
+            ideal font for programming.
+
+            Iosevka was designed by Belleve Invis, and is built from code.
+        </p>
+    </description>
+    <url type="homepage">https://be5invis.github.io/Iosevka</url>
+    <project_license>OFL</project_license>
+    <developer_name>Belleve Invis</developer_name>
+</component>
