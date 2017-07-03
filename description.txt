@@ -1,0 +1,21 @@
+Iosevka is a slender monospace sans-serif and slab-serif typeface inspired by
+Pragmata Pro, M+ and PF DIN Mono, designed to be the ideal font for
+programming. The font is designed by Belleve Invis.
+
+As the font is built entirely from code, many variations of the font can be
+maintained and developed. This allows multiple pre-built variants to be
+packaged in order to suit the users needs. Many of the possible variations are
+described below.
+
+ - shape: the shape of various glyphs, like i, l, 0, etc.
+ - spacing: how wide some specific characters are.
+ - slab: whether the font has slab-serifs.
+ - ligatures: whether the font contains ligatures.
+
+This specific package contains the Iosevka fonts. It contains the following
+variations.
+
+ - shape: default
+ - spacing: default
+ - slab: no
+ - ligatures: yes

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="font">
-    <id>iosevka-default-fonts</id>
+    <id>iosevka-term-fonts</id>
     <metadata_license>CC0-1.0</metadata_license>
-    <name>Iosevka</name>
-    <summary>Iosevka fonts</summary>
+    <name>Iosevka Term</name>
+    <summary>Iosevka Term fonts</summary>
     <description>
         <p>
             Iosevka is a slender monospace sans-serif and slab-serif typeface
@@ -24,9 +24,9 @@
             following variations.
 
              - shape: default
-             - spacing: default
+             - spacing: terminal
              - slab: no
-             - ligatures: yes
+             - ligatures: no
         </p>
     </description>
     <url type="homepage">https://be5invis.github.io/Iosevka</url>
